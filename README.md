@@ -35,11 +35,11 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 
 <details>
  <summary><h3>👨‍💻 YuriBodo's Coding Journey</h3></summary>
-   Comecei minha jornada na programação como um hobby, mergulhando no mundo do Python para resolver problemas e criar coisas novas. A sensação de criar algo do zero e ver funcionar era incrível. Logo depois, dei um passo além e comecei a desenvolver aplicativos usando React Native. Foi nesse processo que realmente me aprofundei na programação e me apaixonei pela área.
+   I began my programming journey as a hobby, diving into the world of Python to solve problems and create new things. The feeling of building something from scratch and seeing it work was amazing. Soon after, I took it a step further and started developing apps using React Native. It was in this process that I really delved into programming and fell in love with the field.
 
-A medida que mergulhava mais fundo no desenvolvimento de aplicativos, percebi que queria expandir meus horizontes e explorar outras facetas da programação. Foi então que decidi me aventurar no desenvolvimento web, focando em React. A transição não foi fácil, mas cada desafio que enfrentei me ajudou a crescer e aprimorar minhas habilidades.
+As I delved deeper into app development, I realized I wanted to expand my horizons and explore other facets of programming. That's when I decided to venture into web development, focusing on React. The transition wasn't easy, but every challenge I faced helped me grow and enhance my skills.
 
-Agora, olhando para trás, vejo o quanto evolui desde aqueles primeiros dias de programação como um simples hobby. O que começou como uma paixão solitária se transformou em uma jornada de aprendizado contínuo e descobertas constantes. Estou ansioso para ver para onde minha jornada na programação me levará a seguir.
+Looking back now, I see how much I've evolved since those early days of programming as just a simple hobby. What started as a solitary passion has turned into a journey of continuous learning and constant discovery. I'm excited to see where my programming journey will take me next.
 <!--
 **yuribodo/yuribodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
