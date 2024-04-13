@@ -32,6 +32,14 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yuribodo&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+<details>
+ <summary><h3>👨‍💻 YuriBodo's Coding Journey</h3></summary>
+   Comecei minha jornada na programação como um hobby, mergulhando no mundo do Python para resolver problemas e criar coisas novas. A sensação de criar algo do zero e ver funcionar era incrível. Logo depois, dei um passo além e comecei a desenvolver aplicativos usando React Native. Foi nesse processo que realmente me aprofundei na programação e me apaixonei pela área.
+
+A medida que mergulhava mais fundo no desenvolvimento de aplicativos, percebi que queria expandir meus horizontes e explorar outras facetas da programação. Foi então que decidi me aventurar no desenvolvimento web, focando em React. A transição não foi fácil, mas cada desafio que enfrentei me ajudou a crescer e aprimorar minhas habilidades.
+
+Agora, olhando para trás, vejo o quanto evolui desde aqueles primeiros dias de programação como um simples hobby. O que começou como uma paixão solitária se transformou em uma jornada de aprendizado contínuo e descobertas constantes. Estou ansioso para ver para onde minha jornada na programação me levará a seguir.
 <!--
 **yuribodo/yuribodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
