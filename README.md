@@ -33,7 +33,7 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 
 #
 
-<details>
+
  <summary><h3>👨‍💻 YuriBodo's Coding Journey</h3></summary>
    I began my programming journey as a hobby, diving into the world of Python to solve problems and create new things. The feeling of building something from scratch and seeing it work was amazing. Soon after, I took it a step further and started developing apps using React Native. It was in this process that I really delved into programming and fell in love with the field.
 
