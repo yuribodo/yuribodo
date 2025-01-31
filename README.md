@@ -29,7 +29,7 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 
 ![yuribodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuribodo&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yuribodo&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=yuribodo&theme=gruvbox&border_radius=4.5)
 
 #
 
