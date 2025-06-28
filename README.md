@@ -3,7 +3,7 @@
 
 I'm an full-stack developer.
 
-- 🔭 I’m currently working on (Cryptotip)[https://github.com/yuribodo/virtual-ui]
+- 🔭 I’m currently working on [Cryptotip](https://github.com/yuribodo/virtual-ui)
 - 🌱 I’m currently learning something	
 - 💬 Ask me anything u want
 
