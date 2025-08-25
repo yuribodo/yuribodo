@@ -3,7 +3,7 @@
 
 I'm an full-stack developer.
 
-- 🔭 I’m currently working on [Virtual UI](https://github.com/yuribodo/virtual-ui)
+- 🔭 I’m currently working on [Mario Charts](https://github.com/yuribodo/mariocharts)
 - 🌱 I’m currently learning something	
 - 💬 Ask me anything u want
 
