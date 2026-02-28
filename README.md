@@ -6,7 +6,7 @@ I'm an full-stack developer.
 - 🔭 I’m currently working on [Mario Charts](https://github.com/yuribodo/mariocharts) and [GiveMeMoney](https://github.com/yuribodo/givememoney-front)
 - 🌱 I’m currently learning something	
 - 💬 Ask me anything u want
-
+- 🌏 I'm impacting the world
 
 #	
 
